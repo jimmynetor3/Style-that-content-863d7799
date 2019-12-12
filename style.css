@@ -1,0 +1,25 @@
+div.navbar{
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	background-color: brown;
+}
+
+h1 , h1+p{
+	display: flex;
+	justify-content: center;
+}
+h3{
+/*	display: inline-block;*/
+}
+div.content{
+	background-color: grey;
+}
+
+.news {
+	display: inline-block;
+	width: 33%;
+	text-align: center;
+	/*display: flex;
+	justify-content: space-between;*/
+}
